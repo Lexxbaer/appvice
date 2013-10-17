@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Appvice13</string>
+    <string name="app_name">Appvice</string>
     <string name="action_settings">Settings</string>
+
+    <!-- login.xml / register.xml -->
+    <string name="register">Registrieren</string>
+    <string name="login">Anmelden</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="email">E-Mail</string>
+    
+    <!-- dashboard_kategorie.xml -->
+    <string name="gesundheit">Gesundheit</string>
+    <string name="sex">Sex</string>
+    <string name="handwerk">Handwerk</string>
+ 	<string name="it_technik">IT/Technik</string>
+    <string name="essen_trinken">Essen/Trinken</string>
+    <string name="sport_fitness">Sport/Fitness</string>
+    <string name="mode">Mode</string>
+    <string name="liebe">Liebe</string>
+    <string name="haushalt">Haushalt</string>
+    
+    <!-- string ids for registration.xml -->
+    <string name="username_textview">Username:</string>
+    <string name="password_textview">Password:</string>
+    <string name="submit">Submit</string>
+
+    <!-- string ids for home.xml -->
+    <string name="post_comment">Post Comment</string>
+    <string name="read_comments_title">Recent Comments</string>
+    <string name="passwords_not_same">Passwords don\'t match</string>
+    <string name="title_activity_dashboard_kategorie">Kategorien</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
